@@ -13,7 +13,7 @@ jobs:
     steps:
 
       - name: greetings
-        run: "hello kiran welcome to the demo yml"
+        run: echo "hello kiran welcome to the demo yml"
 
 
  
