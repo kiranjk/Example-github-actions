@@ -1,0 +1,26 @@
+name: helloo world
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  demo:
+
+    runs-on: ubuntu-latest
+
+
+    steps:
+
+      - name: greetings
+        run: "hello kiran welcome to the demo yml"
+
+
+ 
+
+   
+
+
+ 
+  
+
